@@ -1,0 +1,20 @@
+{
+  "name": "applebolivia",
+  "version": "1.0.0",
+  "description": "AppleBolivia Comprar y Vender",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chitopolo/applebo.git"
+  },
+  "author": "Rene Polo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chitopolo/applebo/issues"
+  },
+  "homepage": "https://github.com/chitopolo/applebo"
+}
